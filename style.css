@@ -40,3 +40,7 @@ body{
     color: #555;
     font-size: 14px;
 }
+
+.key:hover{
+    color: azure;
+}
